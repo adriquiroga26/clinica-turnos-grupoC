@@ -59,4 +59,4 @@ lerna-debug.log*
 .vscode
 
 # Variables de entorno (contraseñas, secretos)
-.env
+#.env
